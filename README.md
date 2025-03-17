@@ -29,7 +29,7 @@ La web ha sido desarrollada utilizando **Bootstrap 5** para garantizar un diseñ
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/mgion24/syncbetter-web.git
+   git clone https://github.com/mgion24/Web_Profesional_Bootstrap.git
    ```
 2. **Abrir `index.html` en un navegador** o desplegarlo en un servidor web.
 
