@@ -1,0 +1,12 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  .navbar-custom {
+    background-color: #001f3f;
+  }
+  .footer {
+    background-color: #001f3f;
+    padding: 20px 0;
+    text-align: center;
+  }

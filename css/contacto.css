@@ -1,0 +1,21 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  .navbar-custom {
+    background-color: #001f3f;
+  }
+  .footer {
+    background-color: #001f3f;
+    padding: 20px 0;
+    text-align: center;
+  }
+  .form-control {
+    background-color: #33525c;
+    color: #ffffff;
+    border: none;
+  }
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #9ed8eb;
+  }

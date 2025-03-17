@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.color-fondo-card {
+    background-color: rgb(169, 169, 169);
+}
+
+.card {
+    background: linear-gradient(to right, #003870, #007bff); /* Azul oscuro a azul claro */
+    color: white; /* Ajustar el color del texto para contraste */
+    border: none; /* Opcional: elimina el borde */
+}
+
+.footer {
+    background-color: #001f3f;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+.navbar{
+    background-color: #001f3f;
+}
